@@ -41,3 +41,29 @@ body {
   max-width: 600px;
   margin: auto;
 }
+
+.section.alt {
+  background: #fff;
+}
+
+/* MENU */
+.menu {
+  list-style: none;
+}
+
+.menu li {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+  border-bottom: 1px solid #ddd;
+  font-weight: 500;
+}
+
+/* STEPS */
+.steps {
+  padding-left: 20px;
+}
+
+.steps li {
+  margin-bottom: 10px;
+}
