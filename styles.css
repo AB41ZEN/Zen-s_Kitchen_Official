@@ -33,3 +33,11 @@ body {
   border-radius: 6px;
   font-weight: bold;
 }
+
+
+/* SECTIONS */
+.section {
+  padding: 40px 20px;
+  max-width: 600px;
+  margin: auto;
+}
