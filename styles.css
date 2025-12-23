@@ -67,3 +67,12 @@ body {
 .steps li {
   margin-bottom: 10px;
 }
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+  color: #fff;
+  font-size: 0.9rem;
+}
